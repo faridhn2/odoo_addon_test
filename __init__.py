@@ -19,4 +19,6 @@
 #    If not, see <http://www.gnu.org/licenses/>.
 #
 ###############################################################################
-from . import db_backup_configure
+from . import controllers
+from . import models
+from . import wizard
